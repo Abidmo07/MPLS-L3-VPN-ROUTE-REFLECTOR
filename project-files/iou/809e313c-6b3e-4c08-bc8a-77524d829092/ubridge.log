@@ -1,0 +1,8 @@
+uBridge version 1.1.1 running with libpcap version 1.10.6 (64-bit time_t, with TPACKET_V3)
+Hypervisor TCP control server started (IP localhost port 45005).
+UDP tunnel connecting from local port 10015 to IPv4 address 127.0.0.1 on port 10014
+IOL bridge listener thread for IOL-BRIDGE-521 with ID 521 has started
+Listener thread for IOL instance 9 on port 0/0 has started
+Hypervisor: closing control sockets.
+Hypervisor: closing remote client connections.
+Hypervisor: stopped.
