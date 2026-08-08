@@ -1,4 +1,4 @@
-# 🚀 MPLS L3 VPN with BGP Route Reflector — Automation & AS-PATH Loop Prevention
+# 🚀 MPLS L3 VPN with BGP Route Reflector — Automation
 
 A production-style **MPLS L3 VPN lab** built with **BGP Route Reflector architecture, LDP, OSPF, VRFs, VPNv4, and Python network automation**.
 
